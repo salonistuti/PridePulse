@@ -32,12 +32,8 @@ List of the commands you can use with Pridebot:
 - **User Apps** - `User Gaydar`, `User Profile`, and `User Transdar`
 
 ## Support
-For support, questions, or feedback about Pridebot, please join our Discord community [here](https://discord.gg/Z8RynpSP).
+For support, questions, or feedback about Pridebot, join our Discord community [here](https://discord.gg/Z8RynpSP).
 
 ## License
 [MIT License](LICENSE)
-
----
-
-Pridebot © 2023-2024
 
