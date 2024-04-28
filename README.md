@@ -3,6 +3,9 @@
 ## Introduction
 PridePulse is a comprehensive LGBTQ+ themed bot designed to provide credible and accurate information on identities and terms within the community. It offers informative commands, identity exploration tools, and tips on coming out and mental health support. The bot also includes fun features like gaydar and profiles, adding an element of enjoyment to the experience. With a wide range of commands covering sexualities, genders, pronouns, and more, PridePulse serves as an invaluable resource for those seeking knowledge, support, and community within the LGBTQ+ sphere.
 
+## Motivation
+The motivation behind building this project stems from a commitment to inclusivity and education within the LGBTQ+ community, promoting a sense of belonging and acceptance for all.
+
 ## Features
 Our bot offers a range of features to assist users in learning and discussing LGBTQ+ topics, including:
 - **Informative Commands**: Access detailed explanations and resources about sexualities, genders, and pronouns.
@@ -28,15 +31,8 @@ List of the commands you can use with Pridebot:
 
 - **User Apps** - `User Gaydar`, `User Profile`, and `User Transdar`
 
-
-## Contribution
-Contributions to Pridebot are welcome! If you're interested in contributing, please:
-- **Report Bugs**: Submit bug reports with `/bugreport` to help improve Pridebot.
-- **Suggest Features**: Have an idea? Please share it with us using `/feedback`!
-- **Voting**: Vote for Pridebot on [Top.gg](https://top.gg/bot/1101256478632972369?s=0bed0f7e006a2) and [Wumpus Store](https://wumpus.store/bot/1101256478632972369)
-
 ## Support
-For support, questions, or feedback about Pridebot, please join our Discord community [here](https://discord.gg/guybqSTzdS).
+For support, questions, or feedback about Pridebot, please join our Discord community [here](https://discord.gg/Z8RynpSP).
 
 ## License
 [MIT License](LICENSE)
