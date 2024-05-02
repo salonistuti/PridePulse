@@ -13,11 +13,6 @@ Our bot offers a range of features to assist users in learning and discussing LG
 - **Tips and Help**: Tools on how to come out to others and helplines and resources for people going through mental health emergencies are available, too.
 - **Fun and More**: Check out the Fun commands for gay fun or check out the Pride commands for all the little jokes
 
-## Getting Started
-To add Pridebot to your Discord server, follow these two simple steps:
-1. **Invite Pridebot**: Use this [invitation link](https://discord.com/api/oauth2/authorize?client_id=1101256478632972369&permissions=415001594945&scope=bot%20applications.commands) to add Pridebot to your Discord server.
-2. **Explore Commands**: Use `/hipride` to explore the various commands and features offered by Pridebot.
-
 ## Commands
 List of the commands you can use with Pridebot:
 - **Fun** - `/gaydar`, `/lgbtq`, `/pronountester`, and `/transdar`
@@ -33,7 +28,4 @@ List of the commands you can use with Pridebot:
 
 ## Support
 For support, questions, or feedback about Pridebot, join our Discord community [here](https://discord.gg/Z8RynpSP).
-
-## License
-[MIT License](LICENSE)
 
