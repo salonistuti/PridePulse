@@ -14,7 +14,7 @@ Our bot offers a range of features to assist users in learning and discussing LG
 - **Fun and More**: Check out the Fun commands for gay fun or check out the Pride commands for all the little jokes
 
 ## Commands
-List of the commands you can use with Pridebot:
+List of the commands you can use with PridePulse:
 - **Fun** - `/gaydar`, `/lgbtq`, `/pronountester`, and `/transdar`
 - **Pride** 
     - **Sexualities** - `/asexual`,`/bisexual`, `/gay`,`/lesbian`, `/pansexual`, and `/queer` 
@@ -27,5 +27,5 @@ List of the commands you can use with Pridebot:
 - **User Apps** - `User Gaydar`, `User Profile`, and `User Transdar`
 
 ## Support
-For support, questions, or feedback about Pridebot, join our Discord community [here](https://discord.gg/Z8RynpSP).
+For support, questions, or feedback about PridePulse, join our Discord community [here](https://discord.gg/Z8RynpSP).
 
